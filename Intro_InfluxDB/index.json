@@ -12,7 +12,7 @@
       {
         "title": "Getting Started",
         "text": "step2.md",
-        "foreground": "step2_fore.sh"
+        "background": "step2_back.sh"
       },
       {
         "title": "Step 3",
