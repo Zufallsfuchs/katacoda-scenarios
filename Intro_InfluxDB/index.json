@@ -1,16 +1,16 @@
 {
   "title": "Intro to Time Series in InfluxDB",
-  "description": "",
+  "description": "First steps with modeling, saving and querying time series in InfluxDB.",
   "difficulty": "Intermediate",
   "time": "30",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Theoretical Background",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Getting Started",
         "text": "step2.md"
       },
       {

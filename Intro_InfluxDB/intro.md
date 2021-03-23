@@ -10,3 +10,7 @@ In this scenario we want to take a closer look at *InfluxDB*, a schemaless time 
 -	How to model, save and query data in InfluxDB
 
 Let’s get started!
+
+
+###### See:
+###### Naqvi, S. N. Z., Yfantidou, S., & Zimányi, E. (2017). Time series databases and influxdb. Université Libre de Bruxelles, 12.
