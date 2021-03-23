@@ -1,8 +1,8 @@
 # Motivation
 
-With the rise of IoT, Industry 4.0 and the growing complexity of IT Systems in general, more and more time-stamped data is created. To store and organize these metrics, measurements and events, *Time Series Databases* are used.
+With the rise of IoT, Industry 4.0 and the growing complexity of IT Systems in general, more and more time-stamped data is created. To store and organize these metrics, measurements and events, *Time Series Databases* are used. [1]
 
-In this scenario we want to take a closer look at *InfluxDB*, a schemaless time series database developed in the *Go* programming language.
+In this scenario we want to take a closer look at *InfluxDB*, a schemaless time series database developed in the *Go* programming language. [1]
 
 **You will learn**:
 -	The basic concepts behind InfluxDB
@@ -10,7 +10,3 @@ In this scenario we want to take a closer look at *InfluxDB*, a schemaless time 
 -	How to model, save and query data in InfluxDB
 
 Let’s get started!
-
-
-###### See:
-###### Naqvi, S. N. Z., Yfantidou, S., & Zimányi, E. (2017). Time series databases and influxdb. Université Libre de Bruxelles, 12.
