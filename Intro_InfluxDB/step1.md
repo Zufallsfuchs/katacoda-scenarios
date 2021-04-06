@@ -2,6 +2,6 @@ As stated in the introduction, *InfluxDB* is a schemaless time series database. 
 
 ## Time Series
 
-![Slide about Time Series](./assets/TimeSeries.PNG)
-awsdawd
+![Slide about Time Series](./assets/TimeSeriesSlide.png)
+
 [BUC]
