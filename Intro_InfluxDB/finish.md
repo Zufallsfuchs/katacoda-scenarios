@@ -1,2 +1,4 @@
 **Resources:**
-- **[1]** Naqvi, S. N. Z., Yfantidou, S., & Zimányi, E. (2017). Time Series Databases and InfluxDB.
+- **[ZEH]** Zehra, S. N. (o. J.). Time Series Databases and InﬂuxDB. 45.
+
+- **[BUC]** Andreas Buckenhofer. (2021). Lecture @DHBW: Data Warehouse 02 Tools.
