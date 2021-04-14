@@ -56,7 +56,14 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "showdashboard": true,
+    "dashboards": [
+      {
+        "name": "InfluxDB UI",
+        "port": 8086
+      }
+    ],
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "ubuntu:2004"
