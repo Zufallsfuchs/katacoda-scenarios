@@ -20,3 +20,6 @@ Great, the container should now be up and running! But what do the options we us
 
 
 InfluxDB is now running as a server, listening to Port 8086 and ready for interactions trough connections.
+
+
+(see [IN1])
