@@ -19,32 +19,20 @@
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Connection Setup",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Writing Data",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Querying Data",
         "text": "step6.md"
       },
       {
-        "title": "Step 7",
+        "title": "Next Steps?",
         "text": "step7.md"
-      },
-      {
-        "title": "Step 8",
-        "text": "step8.md"
-      },
-      {
-        "title": "Step 9",
-        "text": "step9.md"
-      },
-      {
-        "title": "Step 10",
-        "text": "step10.md"
       }
     ],
     "intro": {
