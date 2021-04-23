@@ -14,7 +14,7 @@ influx setup
 Follow the instructions to setup your user account and primary bucket.
 When prompted for a retention period, simply press ENTER to store data infinitely.
 
-We could have also used the UI to setup the account. But now that we already have it set-up, let’s switch to the tab ‘InfluxDB UI’ on the right and use its credentials to log-in. Feel free to refresh the site by pressing the button beside the tab name if needed.
+Now that the CLI is ready, let’s switch to the tab ‘InfluxDB UI’ on the right and have a look at the UI. As you can see, we could have also used the UI to setup the account. But now that we already have it set-up already, refresh the site by pressing the button beside the tab name and use the credentials from earlier to log-in.
 
 Great, now we are all set to start working with InfluxDB using both the CLI and the UI!
 
