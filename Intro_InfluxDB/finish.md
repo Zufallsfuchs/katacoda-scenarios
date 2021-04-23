@@ -1,3 +1,5 @@
+Thank you for taking the time to complete this scenario. I sincerely hope you enjoyed taking your fist steps in working with InfluxDB. Here’s an overview of the resources used to write this tutorial:
+
 **Resources:**
 - **[ZEH]** Zehra, S. N. (o. J.). Time Series Databases and InﬂuxDB. 45.
 
