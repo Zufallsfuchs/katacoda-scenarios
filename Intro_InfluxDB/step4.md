@@ -13,7 +13,8 @@ influx setup \
   --bucket airSensors \
   --username admin \
   --password InfluxDB \
-  --force  
+  --force \
+  --skip-verify 
 ```{{execute}}
 
 Now that the CLI is ready, let’s switch to the tab ‘InfluxDB UI’ on the right and have a look at the UI. As you can see, we could have also used the UI to setup the account. But now that we already have it set-up already, refresh the site by pressing the button beside the tab name and use username `admin` and password `InfluxDB` to log-in.
