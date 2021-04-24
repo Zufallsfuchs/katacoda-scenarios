@@ -11,3 +11,5 @@ airSensors,sensor_id=TLM0200 temperature=71.30192809807144,humidity=34.554182420
 ```{{copy}}
 
 [dataset](./assets/airSensors.txt)
+
+<a href="./assets/airSensors.txt" download>Click to Download</a>
