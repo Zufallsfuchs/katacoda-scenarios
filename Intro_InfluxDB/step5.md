@@ -1,3 +1,16 @@
+In this step we’ll write time series data to the database using both the CLI and the UI. InfluxDB supports multiple file formats. For this example, we will be using Line Protocol (LP), a text-based format that contain one data point per line. The typical syntax of a LP data point looks like this:
+
+```
+measurementName,tagKey=tagValue fieldKey="fieldValue" 1465839830100400200
+--------------- --------------- --------------------- -------------------
+       |               |                  |                    |
+  Measurement       Tag set           Field set            Timestamp
+```
+Note that the timestamp uses the UNIX timestamp format.
+
+[IN5]
+
+##Write Data Using the CLI
 
 ```
 airSensors,sensor_id=TLM0201 temperature=73.211214349118,humidity=35.44560463897656,co=1.3338900071411675 1616575893
@@ -9,5 +22,7 @@ airSensors,sensor_id=TLM0102 temperature=69.6147570238503,humidity=35.4961625528
 airSensors,sensor_id=TLM0103 temperature=69.23583019634,humidity=35.44347610559955,co=1.057620996510558 1616575893
 airSensors,sensor_id=TLM0200 temperature=71.30192809807144,humidity=34.554182420679666,co=34.8404886921331 1616575893
 ```{{copy}}
+
+##Write Data Using the UI
 
 <a href="./assets/airSensors.txt" download>Dataset</a>
