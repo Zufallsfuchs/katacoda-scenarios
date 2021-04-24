@@ -25,3 +25,5 @@ InfluxDB stores data in so-called buckets. They are collections of datapoints wi
 In this example scientist at multiple locations count populations of bees and ant at different times. The *measurement* is called ‘census’ and is used for counting both types of insects. ‘location’ and ‘scientist’ are *tags*, offering more information about the datapoints. And finally, the *field key* ‘_field’ shows which insect is counted and the *field value* ‘_value’ is the population at any given time.
 
 ![Example Data 'census'](./assets/data.png)
+
+[IN1]

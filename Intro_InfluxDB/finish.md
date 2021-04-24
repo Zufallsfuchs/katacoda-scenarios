@@ -7,7 +7,7 @@ Thank you for taking the time to complete this scenario. I sincerely hope you en
 
 - **[BUC]** Andreas Buckenhofer. (2021). Lecture @DHBW: Data Warehouse 02 Tools.
 
-- **[IN1]** InfluxDB key concepts | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/key-concepts/
+- **[IN1]** InfluxDB data elements | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/key-concepts/data-elements/
 
 - **[IN2]** Get started with InfluxDB | InfluxDB OSS 2.0 Documentation. (o. J.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/get-started/?t=Docker
 

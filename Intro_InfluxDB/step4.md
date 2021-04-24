@@ -18,5 +18,4 @@ Now that the CLI is ready, let’s switch to the tab ‘InfluxDB UI’ on the ri
 
 Great, now we are all set to start working with InfluxDB using both the CLI and the UI!
 
-
-(see [IN1])
+[IN2]
