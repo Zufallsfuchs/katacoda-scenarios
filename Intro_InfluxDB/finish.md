@@ -3,10 +3,16 @@ Thank you for taking the time to complete this scenario. I sincerely hope you en
 **Resources:**
 - **[ZEH]** Zehra, S. N. (o. J.). Time Series Databases and InﬂuxDB. 45.
 
+- **[TSA]** Tsay, R. S. (2000). Time Series and Forecasting: Brief History and Future Research. Journal of the American Statistical Association, 95(450), 638–643. https://doi.org/10.1080/01621459.2000.10474241
+
 - **[BUC]** Andreas Buckenhofer. (2021). Lecture @DHBW: Data Warehouse 02 Tools.
 
-- **[IN1]** Get started with InfluxDB | InfluxDB OSS 2.0 Documentation. (o. J.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/get-started/?t=Docker
+- **[IN1]** InfluxDB key concepts | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/key-concepts/
 
-- **[IN2]** InfluxDB v2 API | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/api/
+- **[IN2]** Get started with InfluxDB | InfluxDB OSS 2.0 Documentation. (o. J.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/get-started/?t=Docker
 
-- **[IN3]** influx—InfluxDB command line interface | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/cli/influx/
+- **[IN3]** InfluxDB v2 API | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/api/
+
+- **[IN4]** influx—InfluxDB command line interface | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/cli/influx/
+
+- **[IND]** Influxdata/influxdb2-sample-data. (2021). [Ruby]. InfluxData. https://github.com/influxdata/influxdb2-sample-data (Original work published 2019)
