@@ -35,4 +35,8 @@ airSensors,sensor_id=TLM0200 temperature=71.30192809807144,humidity=34.554182420
 
 ## Write Data Using the UI
 
+Download the rest of the dataset to your computer so that we can use write it to the database using the UI:
+
 <a href="./assets/airSensors.txt" download>Dataset</a>
+
+Switch back to the UI tab and navigate to *Data* -> *Buckets* and click on the violet *Add Data* button inside of the *airSensors* bucket card. Choose the *Line Protocol* option and change the precision to *seconds* on the next screen. Now upload the dataset file you downloaded earlier and finally click *Write Data* to import the data.
