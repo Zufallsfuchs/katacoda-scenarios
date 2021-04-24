@@ -10,6 +10,4 @@ airSensors,sensor_id=TLM0103 temperature=69.23583019634,humidity=35.443476105599
 airSensors,sensor_id=TLM0200 temperature=71.30192809807144,humidity=34.554182420679666,co=34.8404886921331 1616575893
 ```{{copy}}
 
-[dataset](./assets/airSensors.txt)
-
-<a href="./assets/airSensors.txt" download>Click to Download</a>
+<a href="./assets/airSensors.txt" download>Dataset</a>
