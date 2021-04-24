@@ -4,14 +4,6 @@
   "difficulty": "Intermediate",
   "time": "30",
   "details": {
-    "assets": {
-      "host01": [
-        {
-          "file": "*",
-          "target": "/root"
-        }
-      ]
-    },
     "steps": [
       {
         "title": "Theoretical Background",
