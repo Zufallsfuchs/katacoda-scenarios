@@ -1,4 +1,4 @@
-In this step we’ll write time series data to the database using both the CLI and the UI. InfluxDB supports multiple file formats. For this example, we will be using Line Protocol (LP), a text-based format that contain one data point per line. The typical syntax of a LP data point looks like this:
+In this step, we’ll write data to the database using both the CLI and the UI. InfluxDB supports multiple file formats. For this example, we will be using Line Protocol (LP), a text-based format that contains one data point per line. The typical syntax of a LP data point looks like this:
 
 ```
 measurementName,tagKey=tagValue fieldKey="fieldValue" 1465839830100400200
@@ -6,13 +6,14 @@ measurementName,tagKey=tagValue fieldKey="fieldValue" 1465839830100400200
        |               |                  |                    |
   Measurement       Tag set           Field set            Timestamp
 ```
-Note that the timestamp uses the UNIX timestamp format.
+Note that the timestamp uses the UNIX timestamp format. if no timestamp is supplied, the time of writing to the database will be used.
 
 [IN5]
 
 ## Example Dataset
 
-The dataset used in this example contains air sensor data. It consists of fields for temperature, humidity, and carbon monoxide for eight different sensors. Their names are saved as a tag and they report values every 30 minutes. The dataset was created using a [ruby script](https://github.com/influxdata/influxdb2-sample-data).
+The example dataset contains air sensor data. It consists of fields for temperature, humidity, and carbon monoxide messured with eight different sensors. Their names are saved in a tag and they report values every 30 minutes. The dataset was created using a [ruby script](https://github.com/influxdata/influxdb2-sample-data).
+
 [IND]
 
 
@@ -35,7 +36,7 @@ airSensors,sensor_id=TLM0200 temperature=71.30192809807144,humidity=34.554182420
 
 ## Write Data Using the UI
 
-Download the rest of the dataset to your computer so that we can use write it to the database using the UI:
+Download the rest of the dataset to your computer so that we can write it to the database using the UI:
 
 <a href="./assets/airSensors.txt" download>Dataset</a>
 

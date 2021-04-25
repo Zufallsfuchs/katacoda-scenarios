@@ -7,6 +7,6 @@ In this scenario we want to take a closer look at *InfluxDB*, a schemaless time 
 **You will learn**:
 -	The basic concepts behind InfluxDB
 -	How to run InfluxDB using a docker image
--	How to model, save and query data in InfluxDB
+-	How to model, write and query data in InfluxDB
 
 Let’s get started!
