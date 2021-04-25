@@ -10,4 +10,4 @@ Thank you for taking the time to complete this scenario. I sincerely hope you en
 - **[IN4]** influx—InfluxDB command line interface | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/cli/influx/
 - **[IN5]** Line protocol | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/reference/syntax/line-protocol/
 - **[IN6]** Query data with Flux | InfluxDB OSS 2.0 Documentation. (n.d.). Retrieved from https://docs.influxdata.com/influxdb/v2.0/query-data/flux/
-- **[IND]** Influxdata/influxdb2-sample-data. (2021). [Ruby]. InfluxData. https://github.com/influxdata/influxdb2-sample-data (Original work published 2019)
+- **[IND]** Influxdata/influxdb2-sample-data. (2021). Ruby. InfluxData. https://github.com/influxdata/influxdb2-sample-data (Original work published 2019)

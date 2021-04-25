@@ -20,7 +20,7 @@ influx setup \
 
 This command creates an admin user as well as a bucket called `airSensors`.
 
-Now that the CLI is ready, switch to the tab ‘InfluxDB UI’ on the right and have a look at the UI. Refresh the site by pressing the button beside the tab name and use username `admin` and password `InfluxDB` to log-in.
+Now that the CLI is ready, switch to the tab ‘InfluxDB UI’ on the right and have a look at the UI. Refresh the site by pressing the button next to the tab name and log in with the username `admin` and password `InfluxDB`.
 
 Great, now we are all set to start working with InfluxDB using both the CLI and the UI!
 

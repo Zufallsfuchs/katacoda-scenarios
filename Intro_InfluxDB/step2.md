@@ -1,12 +1,12 @@
 
-While there are a lot of ways to install and use InfluxDB, we will run it in a docker container. The corresponding image is downloaded automatically in the background. Please wait for the download to finish before you continue. The terminal on the right will read the following when ready: 
+While there are a lot of ways to install and use InfluxDB, we will run it in a docker container. The corresponding image is downloaded automatically in the background. Please wait for the download to finish before you continue. When the download is ready, the terminal on the right will read the following: 
 
 ```
 $ echo "Ready to go!"
 Ready to go!
 ```
 
-Now that the download is complete, let's run an instance of the image:
+With the download completed, let's run an instance of the image:
 
 ```
 docker run -d --name influxdb -p 8086:8086 influxdb:2.0.4

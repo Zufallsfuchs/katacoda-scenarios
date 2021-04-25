@@ -6,7 +6,7 @@ The graphical user interface (UI) is accessed by navigating a web browser to the
 
 ## Command Line
 
-The command line interface (CLI) called influx. Like the other options, it is used to manage aspects of InfluxDB as well as write and query data.
+The command line interface (CLI) is called influx. Like the other options, it is used for managing aspects of InfluxDB and for writing and querying data.
 
 
 [IN2, IN3, IN4]

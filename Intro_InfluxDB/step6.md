@@ -1,6 +1,6 @@
 Lastly, we’ll have a look at how to query data using Flux, the InfluxDB native language for querying, analyzing, and acting on data. It uses pipe-forward operators `|>` to chain functions and operations. The most important function is `filter()` for filtering data. While the function structure makes the query relatively easy to read, the language offers a broad range of features. Refer to the [official documentation](https://docs.influxdata.com/influxdb/v2.0/query-data/flux/) for more information.
 
-The following query returns temperature measurements on the 1st of April between midnight and noon for the sensors *TLM0103* and *TLM0102*. It is executet using the CLI command `influx query`.
+The following query returns temperature measurements on the 1st of April between midnight and noon for the sensors *TLM0103* and *TLM0102*. It is executed using the CLI command `influx query`.
 
 ```
 influx query '

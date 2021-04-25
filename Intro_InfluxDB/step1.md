@@ -18,10 +18,10 @@ Have a look at the following slide for a short summary and some example time ser
 
 ## Data Modeling and Design
 
-InfluxDB stores data in so-called buckets. They are collections of datapoints with a set retention period. Each datapoint has at least a timestamp, a measurement, a field and optionally tags for metadata. Let’s define these terms:
+InfluxDB stores data in so-called *buckets*. They are collections of datapoints with a set retention period. Each datapoint has at least a timestamp, a measurement and a field. Tags for metadata are optional. Let’s define these terms:
 
 - **Timestamp**: Time of recording for a given datapoint.
-- **Measurement**: String used to group datapoints that belong together.
+- **Measurement**: Strings used to group datapoints that belong together.
 - **Fields**: Key value pair; the Key is a string describing what’s being measured and the value is the value of the measurement.
 - **Tags**: Key value pair; additional metadata for the measurements. The keys are strings and can be interpreted as columns, while the tag value contains the actual metadata.
 

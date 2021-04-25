@@ -6,13 +6,13 @@ measurementName,tagKey=tagValue fieldKey="fieldValue" 1465839830100400200
        |               |                  |                    |
   Measurement       Tag set           Field set            Timestamp
 ```
-Note that the timestamp uses the UNIX timestamp format. if no timestamp is supplied, the time of writing to the database will be used.
+Note that the timestamp uses the UNIX timestamp format. If no timestamp is supplied, the time of writing to the database will be used.
 
 [IN5]
 
 ## Example Dataset
 
-The example dataset contains air sensor data. It consists of fields for temperature, humidity, and carbon monoxide messured with eight different sensors. Their names are saved in a tag and they report values every 30 minutes. The dataset was created using a [ruby script](https://github.com/influxdata/influxdb2-sample-data).
+The example dataset contains air sensor data. It consists of fields for temperature, humidity, and carbon monoxide measured with eight different sensors. Their names are saved in a tag and they report values every 30 minutes. The dataset was created using a [ruby script](https://github.com/influxdata/influxdb2-sample-data).
 
 [IND]
 
@@ -40,4 +40,4 @@ Download the rest of the dataset to your computer so that we can write it to the
 
 <a href="./assets/airSensors.txt" download>Dataset</a>
 
-Switch back to the UI tab and navigate to *Data* -> *Buckets* and click on the violet *Add Data* button inside of the *airSensors* bucket card. Choose the *Line Protocol* option and change the precision to *seconds* on the next screen. Now upload the dataset file you downloaded earlier and finally click *Write Data* to import the data.
+Switch back to the UI tab and navigate to *Data* -> *Buckets*, click on the violet *Add Data* button inside of the *airSensors* bucket card and choose the *Line Protocol* option. On the next screen, change the *precision* to **seconds** and upload the dataset file you downloaded earlier. Finally click *Write Data* to import the data.
